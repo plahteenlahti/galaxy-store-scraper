@@ -1,0 +1,232 @@
+{
+  "commentList": [
+    {
+      "modifyDate": "2026.09.30.",
+      "createDate": "2026.09.28.",
+      "userId": null,
+      "commentText": "Great game",
+      "commentStatudCode": null,
+      "sellerAnswerFlag": "false",
+      "registerTypeCode": null,
+      "ratingValueNumber": "stars rating-stars-4-5",
+      "loginId": "test**"
+    },
+    {
+      "modifyDate": "2026.09.29.",
+      "createDate": "2026.09.29.",
+      "userId": null,
+      "commentText": "Thanks!",
+      "commentStatudCode": null,
+      "sellerAnswerFlag": "true",
+      "registerTypeCode": null,
+      "ratingValueNumber": "stars rating-stars-0",
+      "loginId": null
+    }
+  ],
+  "DetailMain": {
+    "appId": "studio.happycode.puking_cat",
+    "contentId": "000009210018",
+    "contentName": "Puking Cat: Messy Physics Game",
+    "contentType": "17",
+    "shopId": null,
+    "storeType": "2",
+    "shortDescription": "Aim the cat. Splat the furniture. Mind the aquarium.",
+    "contentDescription": "If you have ever owned a cat, you already know they do not aim for the floor.\r\n\r\nPuking Cat is a funny cat game about a cute pet with terrible manners. Two taps turn a tidy room into a mess: lock the angle, lock the power, and let your naughty kitty do the rest. Mind the aquarium.\r\n\r\nTWO TAPS, ONE MESS\r\n- Aim your shot at furniture, hunt for bonus targets and avoid the things you should leave alone.\r\n- Watch slime pool on tables and drip onto objects below.\r\n- Beat the target score before you run out of shots to earn up to three stars.\r\n- Replay a room to find a better angle and improve your score.\r\n\r\nA CAT'S WORK IS NEVER DONE\r\n- Make mischief around the house and at the vet clinic.\r\n- Catch the patrolling robot vacuum for a bonus. Leave the toy car alone.\r\n- Dress your cat in costumes and choose a different slime colour in the shop.\r\n- Short rounds make this casual physics game easy to pick up for a little chaos.\r\n\r\nPLAY YOUR WAY\r\n- No account or sign-up. Your progress stays on your device.\r\n- Ads support the game, and the fail screen stays clear of full-screen ads.\r\n- Rewarded ads are optional.\r\n- Remove Ads is an optional subscription that clears the full-screen ads.\r\n\r\nThe room is not going to clean itself. It is about to get considerably worse.",
+    "contentNewDescription": "A small fix for Galaxy.\n\n- Subscription cancellation now points to your Galaxy Store account, where your subscription actually lives\n\nSame cat. Slightly better directions.",
+    "cnvrnImgUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252.png",
+    "youtubeUrl": "",
+    "youtubeImgUrl": "",
+    "youtubeRtspUrl": "",
+    "itemGroupId": null,
+    "itemPurchaseFlag": "Y",
+    "prepostFlag": null,
+    "sellerName": "HAPPY SIA",
+    "copyrightHolder": "HAPPY SIA",
+    "sellerId": "xvfs7fmivh",
+    "iconURL": "https://img.samsungapps.com/productNew/000009210018/ENG/IconImage_20260925024757252_NEW_WAP_ICON_512_512.png",
+    "contentImgURL": "https://img.samsungapps.com/productNew/000009210018/IconImage_20260925024757252_NEW_WAP_ICON_95_95.png",
+    "localPrice": "$0.00",
+    "discountPrice": "$0.00",
+    "discountFlag": "N",
+    "freeFlag": "Y",
+    "currencyUnit": "$",
+    "ctntLanguageCode": null,
+    "limitAgeCd": "4",
+    "limitAgeDetail": null,
+    "contentGradeImageUrl": "",
+    "ratingValue": "stars rating-stars-5",
+    "ratingNumber": "5.0",
+    "commentListTotalCount": "1",
+    "starSum": "1",
+    "contentBinaryVersion": "2.8.1",
+    "contentBinarySize": "125.04 MB",
+    "encCustomerSupportEmail": null,
+    "customerSupportEmail": "info@happycode.studio",
+    "sellerPrivatePolicy": "https://happycode.studio/terms/apps/Puking-Cat",
+    "sellerSite": "https://happycode.studio",
+    "developerSite": "https://happycode.studio",
+    "commentTitle": null,
+    "editorComment": null,
+    "countryCode": "USA",
+    "locale": null,
+    "modifyDate": "2026.09.25.",
+    "generalCategoryId": "G000060950",
+    "generalCategoryName": "Casual",
+    "generalCategoryName2": "",
+    "categoryPath": "Games > Casual",
+    "deeplinkUrl": "samsungapps://ProductDetail/studio.happycode.puking_cat?gsw_source=GSWebToDetail",
+    "managerlinkUrl": null,
+    "bridgeUrl": "https://apps.samsung.com?appId=studio.happycode.puking_cat",
+    "defaultUrl": null,
+    "canonicalUrl": null,
+    "permissionList": [],
+    "screenshotRes": null,
+    "contentBinaryWatchType": "N",
+    "promotionTitle": "",
+    "promotionDescription": "",
+    "samsungPointBenefitTitle": "",
+    "samsungPointBenefitTitleShowYN": "",
+    "samsungPointBenefitDescription": "",
+    "editorCommentWithTitle": "",
+    "editorCommentWithComment": "",
+    "dataSafetyCollected": "Financial info|App activity|App info and performance|Device or other IDs",
+    "dataSafetyShared": "App activity|App info and performance|Device or other IDs",
+    "curatedTodayAppsRcuID": "131",
+    "curatedTodayAppsTitle": "Today's top",
+    "curatedTogetherAppsRcuID": "",
+    "curatedTogetherAppsTitle": "",
+    "curatedSimilarAppsRcuID": "",
+    "curatedSimilarAppsTitle": "",
+    "curatedComponentList": {
+      "131": [
+        {
+          "contentId": "000006897450",
+          "appId": "com.scopely.monopolygo.flexion",
+          "iconURL": "https://img.samsungapps.com/productNew/000006897450/IconImage_20260923094942902_NEW_WEB_ICON_135_135.png",
+          "contentName": "MONOPOLY GO!",
+          "sellerName": "Scopely Inc",
+          "localPrice": "$0.00",
+          "freeFlag": "Y",
+          "ratingValue": "stars rating-stars-4-5",
+          "ratingNumber": "4.5"
+        },
+        {
+          "contentId": "000003478195",
+          "appId": "com.adobe.reader",
+          "iconURL": "https://img.samsungapps.com/productNew/000003478195/IconImage_20260924185424224_NEW_WEB_ICON_135_135.png",
+          "contentName": "Adobe Acrobat Reader for PDF",
+          "sellerName": "Adobe Systems Inc",
+          "localPrice": "$0.00",
+          "freeFlag": "Y",
+          "ratingValue": "stars rating-stars-4-5",
+          "ratingNumber": "4.5"
+        },
+        {
+          "contentId": "000008335859",
+          "appId": "com.huuuge.casino.slots",
+          "iconURL": "https://img.samsungapps.com/productNew/000008335859/IconImage_20260915111630141_NEW_WEB_ICON_135_135.png",
+          "contentName": "Huuuge Casino",
+          "sellerName": "Huuuge Global Limited",
+          "localPrice": "$0.00",
+          "freeFlag": "Y",
+          "ratingValue": "stars rating-stars-5",
+          "ratingNumber": "5.0"
+        }
+      ]
+    }
+  },
+  "starSum": "1",
+  "page_meta_desc": "If you have ever owned a cat, you already know they do not aim for the floor.\r\n\r\nPuking Cat is a funny cat game about a cute pet with terrible manners. Two taps turn a tidy room into a mess: lock t...",
+  "page_title": "Puking Cat: Messy Physics Game",
+  "appId": "studio.happycode.puking_cat",
+  "contentId": "000009210018",
+  "Screenshot": {
+    "scrnShtUrlList": [
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_320_1.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_1.png"
+      },
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_3413_1920_320_2.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_3413_1920_2.png"
+      },
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_320_3.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_3.png"
+      },
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_320_4.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_4.png"
+      },
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_320_5.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_5.png"
+      },
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_320_6.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_6.png"
+      },
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_320_7.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_7.png"
+      },
+      {
+        "smallScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_320_8.png",
+        "originalScrnShtUrl": "https://img.samsungapps.com/productNew/000009210018/ENG/ScreenShot_20260925024757252_1422_800_8.png"
+      }
+    ],
+    "smallScrnShtUrlList": null,
+    "screenshotUrl": null,
+    "screenshotSeq": null,
+    "langCd": null,
+    "scrnShtHrztSize": null,
+    "scrnShtVrtcSize": null,
+    "screenshotCnt": null,
+    "screenshotRes": null
+  },
+  "RichSnippet": {
+    "@context": "https://schema.org/",
+    "@type": "SoftwareApplication",
+    "name": "Puking Cat: Messy Physics Game",
+    "url": "https://galaxystore.samsung.com/detail/studio.happycode.puking_cat",
+    "description": "If you have ever owned a cat, you already know they do not aim for the floor.\r\n\r\nPuking Cat is a funny cat game about a cute pet with terrible manners. Two taps turn a tidy room into a mess: lock the angle, lock the power, and let your naughty kitty do the rest. Mind the aquarium.\r\n\r\nTWO TAPS, ONE MESS\r\n- Aim your shot at furniture, hunt for bonus targets and avoid the things you should leave alone.\r\n- Watch slime pool on tables and drip onto objects below.\r\n- Beat the target score before you run out of shots to earn up to three stars.\r\n- Replay a room to find a better angle and improve your score.\r\n\r\nA CAT'S WORK IS NEVER DONE\r\n- Make mischief around the house and at the vet clinic.\r\n- Catch the patrolling robot vacuum for a bonus. Leave the toy car alone.\r\n- Dress your cat in costumes and choose a different slime colour in the shop.\r\n- Short rounds make this casual physics game easy to pick up for a little chaos.\r\n\r\nPLAY YOUR WAY\r\n- No account or sign-up. Your progress stays on your device.\r\n- Ads support the game, and the fail screen stays clear of full-screen ads.\r\n- Rewarded ads are optional.\r\n- Remove Ads is an optional subscription that clears the full-screen ads.\r\n\r\nThe room is not going to clean itself. It is about to get considerably worse.",
+    "operatingSystem": "Android",
+    "applicationCategory": "Casual",
+    "image": "https://img.samsungapps.com/productNew/000009210018/IconImage_20260925024757252_NEW_WAP_ICON_95_95.png",
+    "contentRating": "4",
+    "author": {
+      "@type": "Person",
+      "name": "HAPPY SIA",
+      "url": "https://happycode.studio"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "ratingCount": "1",
+      "bestRating": "5",
+      "worstRating": "0.5"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "$0.00",
+      "priceCurrency": "$",
+      "category": "free"
+    }
+  },
+  "SellerInfo": {
+    "sellerType": null,
+    "sellerTradeName": "HAPPY SIA",
+    "representation": "Kacevica Ivanna",
+    "sellerSite": "https://happycode.studio",
+    "developerSite": "https://happycode.studio",
+    "firstName": "HAPPY SIA",
+    "lastName": null,
+    "sellerNumber": "LVA67201190",
+    "firstSellerAddress": "37 - 13 Marupes iela",
+    "secondSellerAddress": null,
+    "registrationNumber": "",
+    "reportNumber": null
+  },
+  "commentListTotalCount": "1",
+  "badgeUrlEndpoint": "https://apiv3.galaxy.store/v3/create-auto"
+}
