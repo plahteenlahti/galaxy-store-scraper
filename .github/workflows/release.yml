@@ -1,0 +1,64 @@
+name: Release
+
+# Every push to main runs the checks, then semantic-release decides from the
+# conventional commit messages whether to cut a release (fix: → patch,
+# feat: → minor, feat!: / BREAKING CHANGE → major). When it does, it tags the
+# commit, creates a GitHub release with generated notes, and publishes to npm.
+
+on:
+  push:
+    branches: [main]
+
+# Never run two releases at once; they would race for the same version.
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+permissions:
+  contents: write # push the tag and create the GitHub release
+  issues: write # comment on issues fixed by the release
+  pull-requests: write # comment on PRs included in the release
+  id-token: write # npm trusted publishing (OIDC)
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          # semantic-release needs the full history and tags to find the last release
+          fetch-depth: 0
+
+      # semantic-release 25 requires Node 22.14+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'
+
+      # npm 11.5.1+ is required for OIDC trusted publishing.
+      - name: Update npm
+        run: npm install -g npm@11
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run linter
+        run: npm run lint
+
+      - name: Run typecheck
+        run: npm run typecheck
+
+      - name: Run unit tests
+        run: npm run test:run
+
+      - name: Build package
+        run: npm run build
+
+      - name: Release
+        run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
